@@ -9,6 +9,12 @@ std::string Helmetsize(std::string length);
 
 int BinD15(int N);
 
+int input_symbol(char *exist_file);
+int input_time(char *exist_file);
+void second_funct();
+void first_funct();
+int f_resofscalc(char *outputName);
+int f_searchword(char *inputName, char *outputName, int *vowelNum);
 //Alonzomerにごきょりょくいただきあｒがとごｄざいます
 
 #endif // MODULESKRIVDA_H_INCLUDED
